@@ -9,6 +9,11 @@
 - **Jokių savigyros teiginių** („puikiai išmanau", „turiu didelę patirtį" ir pan.). Kompetencija parodoma konkrečiomis įstatymų nuorodomis (pvz., PVMĮ 32 str., 96 str.), o ne būdvardžiais.
 - Atsakymas – **trumpas konkretus pasiūlymas**: kas įeina į paslaugą pagal kliento nurodytą apimtį, kaina, daugiausia vienas patikslinantis klausimas. Tik tai, ko klientui reikia – be teorijos dėstymo.
 
+## Kas siūlo paslaugas
+
+- Paslaugos siūlomos **mbuhalterija.lt** vardu, ne asmeniškai („siūlome", „tvarkome", ne „aš buhalterė", „mano paslaugos").
+- Žinutėje paminėti mbuhalterija.lt.
+
 ## Kontekstas
 
 - Atsakoma į skelbimus, kuriuose ieškoma buhalterio (-ės) įmonėms (MB, UAB, IĮ).
