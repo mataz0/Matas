@@ -1,8 +1,24 @@
 # FAZĖ · ketvirtadienis 07-30 — praleista injekcija
 
-Galutinė versija. Siunčiama tik ši teksto versija — IG varianto nedaryti ir nesiųsti.
+Siunčiama TIK trumpa TikTok versija (galioja visiems postams). IG versijos nedaryti ir nesiųsti.
 
----
+## TikTok versija (siųsti šitą)
+
+FAZĖ · 07-30
+
+Praleidai injekciją? Blogiausia — kai neatsimeni, ar išvis susileidai.
+
+Kiek dar galima, priklauso nuo vaisto: savaitiniams langas — dienos, kasdieniams — valandos, tabletėms jo nėra. Tikrink pakuotės lapelį, abejoji — klausk gydytojo ar vaistininko.
+
+Dviguba dozė „atsigriebti" — niekada.
+
+Injekcijas, svorį ir savijautą žymėkis glp1.lt — 14 d. nemokamai, be kortelės.
+
+Vaistus skiria tik gydytojas. Tai nėra medicininė konsultacija.
+
+#glp1 #ozempic #mounjaro #svoriometimas #lietuva
+
+## Pilna versija (archyvui, nesiųsti)
 
 FAZĖ · ketvirtadienis 07-30
 
