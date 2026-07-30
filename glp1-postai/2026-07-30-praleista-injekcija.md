@@ -1,5 +1,7 @@
 # FAZĖ · ketvirtadienis 07-30 — praleista injekcija
 
+**Statusas: papostinta 2026-07-30.**
+
 Siunčiama TIK trumpa TikTok versija (galioja visiems postams). IG versijos nedaryti ir nesiųsti.
 
 ## TikTok versija (siųsti šitą)
