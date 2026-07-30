@@ -8,7 +8,7 @@ FAZĖ · 07-30
 
 Praleidai injekciją? Blogiausia — kai neatsimeni, ar išvis susileidai.
 
-Kiek dar galima — žiūrėk pakuotės lapelį arba klausk vaistininko. Dviguba dozė „atsigriebti" — niekada.
+Dviguba dozė „atsigriebti" — niekada.
 
 Žymėkis injekcijas glp1.lt — 14 d. nemokamai, be kortelės.
 
