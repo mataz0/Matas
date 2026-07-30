@@ -8,13 +8,11 @@ FAZĖ · 07-30
 
 Praleidai injekciją? Blogiausia — kai neatsimeni, ar išvis susileidai.
 
-Kiek dar galima, priklauso nuo vaisto: savaitiniams langas — dienos, kasdieniams — valandos, tabletėms jo nėra. Tikrink pakuotės lapelį, abejoji — klausk gydytojo ar vaistininko.
+Kiek dar galima — žiūrėk pakuotės lapelį arba klausk vaistininko. Dviguba dozė „atsigriebti" — niekada.
 
-Dviguba dozė „atsigriebti" — niekada.
+Žymėkis injekcijas glp1.lt — 14 d. nemokamai, be kortelės.
 
-Injekcijas, svorį ir savijautą žymėkis glp1.lt — 14 d. nemokamai, be kortelės.
-
-Vaistus skiria tik gydytojas. Tai nėra medicininė konsultacija.
+Vaistus skiria tik gydytojas. Ne medicininė konsultacija.
 
 #glp1 #ozempic #mounjaro #svoriometimas #lietuva
 
