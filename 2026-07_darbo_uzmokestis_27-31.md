@@ -1,56 +1,52 @@
 # Darbo užmokesčio skaičiavimas – 2026 m. liepos 27–31 d.
 
-Laikotarpis: **2026-07-27 (pirmadienis) – 2026-07-31 (penktadienis)** = 5 darbo dienos.
+Laikotarpis: **2026-07-27 (pirmadienis) – 2026-07-31 (penktadienis)** = **5 d. d.**
+2026 m. liepą – 22 d. d. (liepos 6 d. – šventinė).
 
-Prielaida: 500 € – **priskaitytas (bruto)** DU už laikotarpį. Jei buvo sutarta 500 € „į rankas“, žr. pastabą apačioje.
+Schema: mėnesinis etatinis **1 903 €**, už liepą priskaitoma proporcingai už 5 d. d., o skirtumas iki sutartų **500 € „į rankas“** išmokamas **dienpinigiais**.
 
-## Darbuotojai
-
-| Darbuotojas | Įdarbintas nuo | Bruto DU |
-|---|---|---|
-| Edgaras Bakutis | 2026-07-27 | 500,00 € |
-| Paulius Vanafridas | 2026-07-27 | 500,00 € |
-| Simonas Rakauskas | 2026-07-27 | 500,00 € |
+1 903 € ≥ 1,65 × MMA (1,65 × 1 153 = 1 902,45 €) → dienpinigiai **neapmokestinami** (GPMĮ 17 str. 1 d. 5 p. sąlyga tenkinama).
 
 ## Skaičiavimas (vienam darbuotojui, taikant NPD)
 
 | Eilutė | Suma |
 |---|---|
-| Priskaitytas DU (bruto) | 500,00 € |
-| NPD (2026 m., DU < MMA 1153 €, NPD padengia visą sumą) | 500,00 € |
-| GPM 20 % (apmokestinama 0 €) | 0,00 € |
-| VSD 12,52 % | 62,60 € |
-| PSD 6,98 % | 34,90 € |
-| **Išmokama „į rankas“** | **402,50 €** |
-| Darbdavio Sodra 1,77 % (neterminuota sutartis) | 8,85 € |
+| Bruto DU: 1 903 / 22 × 5 | **432,50 €** |
+| NPD (liepos pajamos < 1 153 €, padengia visą sumą) | 432,50 € |
+| GPM | 0,00 € |
+| VSD 12,52 % | 54,15 € |
+| PSD 6,98 % | 30,19 € |
+| **DU „į rankas“** | **348,16 €** |
+| **Dienpinigiai (500 − 348,16)** | **151,84 €** |
+| **Iš viso išmokama** | **500,00 €** |
+| Darbdavio Sodra 1,77 % | 7,66 € |
+| **Pilna darbdavio kaina** | **592,00 €** |
 
-Jei sutartys **terminuotos** – darbdavio Sodra 2,49 % = 12,45 €.
+Dienpinigių dienos norma: 151,84 / 5 = **30,37 €/d.** – patikrinti, kad neviršytų komandiruotės šalies normos (vidaus komandiruotei Lietuvoje norma mažesnė – tada dalis būtų apmokestinama; užsienio šalims paprastai telpa).
 
-Jei darbuotojas **nepateikė prašymo taikyti NPD** (arba dirba ir kitur): GPM = 100,00 €, „į rankas“ = 302,50 €.
+Jei NPD netaikomas (darbuotojo prašymu / dirba kitur): GPM 86,50 €, DU „į rankas“ 261,66 €, dienpinigiai 238,34 € (47,67 €/d. – didesnė rizika viršyti normą).
 
-## Iš viso (3 darbuotojai, su NPD)
+## Iš viso (3 darbuotojai: Edgaras Bakutis, Paulius Vanafridas, Simonas Rakauskas)
 
 | | Suma |
 |---|---|
-| Bruto | 1 500,00 € |
+| Bruto DU | 1 297,50 € |
 | GPM | 0,00 € |
-| Darbuotojų Sodra (išskaityta) | 292,50 € |
-| Išmokama „į rankas“ | 1 207,50 € |
-| Darbdavio Sodra (1,77 %) | 26,55 € |
+| Darbuotojų Sodra (išskaityta) | 253,02 € |
+| DU „į rankas“ | 1 044,48 € |
+| Dienpinigiai | 455,52 € |
+| **Išmokama iš viso** | **1 500,00 €** |
+| Darbdavio Sodra | 22,98 € |
+| **Pilna kaina** | **1 776,00 €** |
 
-## ⚠️ Sodros įmokų „grindys“
+## Sodros „grindys“
 
-DU (500 €) < MMA (1 153 €), todėl pagal VSDĮ įmokos skaičiuojamos **ne mažiau kaip nuo MMA** – skirtumo (653 €) įmokas (~21,27 % ≈ 138,90 € už darbuotoją) sumoka darbdavys savo lėšomis, **nebent taikoma išimtis**: darbuotojas gauna pensiją, turi neįgalumą, yra iki 24 m. amžiaus ir kt. Būtina pasitikrinti kiekvieno darbuotojo statusą – nuo to priklauso galutinė darbdavio kaina.
-
-Be išimčių pilna darbdavio kaina vienam darbuotojui ≈ 500 + 8,85 + 138,90 = **647,75 €**.
+Priimti ne nuo mėnesio pradžios, todėl MMA riba liepai taikoma proporcingai dirbtam laikui (1 153 / 22 × 5 = 262,05 €). Bruto 432,50 € > 262,05 € → papildomų įmokų nuo skirtumo **nėra**.
 
 ## Deklaravimas ir terminai
 
-- **1-SD** – turėjo būti pateikta iki darbo pradžios (2026-07-27). Jei nepateikta – pateikti nedelsiant.
-- **2-SD** – jei darbuotojai atleisti 07-31, pateikti ne vėliau kaip kitą darbo dieną po atleidimo.
+- **1-SD** – iki darbo pradžios (2026-07-27); jei nepateikta – nedelsiant.
+- **2-SD** – jei atleidžiami 07-31, kitą darbo dieną.
 - **SAM už liepą** ir Sodros įmokos – iki **2026-08-17** (rugpjūčio 15 d. – šeštadienis).
-- **GPM313 už liepą** ir GPM sumokėjimas – iki **2026-08-17**.
-
-## Pastaba: jei 500 € sutarta „į rankas“
-
-Bruto = 500 / 0,805 = **621,12 €** (GPM 0 € su NPD; VSD+PSD 121,12 €). Trims darbuotojams bruto iš viso 1 863,36 €. Sodros „grindų“ skirtumas tada – nuo 531,88 €.
+- **GPM313 už liepą** ir GPM – iki **2026-08-17**.
+- Komandiruotės įsakymas (šalis, laikotarpis 07-27–07-31) – dienpinigių pagrindimui.
