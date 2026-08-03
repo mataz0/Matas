@@ -17,15 +17,15 @@ Bruto: 1153,00 € (MMA nuo 2026-01-01). NPD – 747,00 € (pilnas, nes DU ≤ 
 
 Pastaba: Sodrai deklaruojama bendra darbuotojo VSD norma su kaupimu – 15,52 % (144,36 + 34,59 = 178,95 €).
 
-## 2 lentelė. Darbdavio mokesčiai ir darbo vietos kaina
+## 2 lentelė. Visi mokesčiai (darbuotojo + darbdavio) ir darbo vietos kaina
 
-| Eil. | Pavadinimas                                   | Tarifas | Suma, €      |
-|------|-----------------------------------------------|---------|--------------|
-| 1.   | Priskaitytas darbo užmokestis                 | –       | 1 153,00     |
-| 2.   | Darbdavio Sodra (neterminuota DS)             | 1,77 %  | 20,41        |
-| 3.   | **Visa darbo vietos kaina**                   | –       | **1 173,41** |
-| 4.   | Darbuotojo mokesčiai ir kaupimas (1 lentelė)  | –       | 340,63       |
-| 5.   | **IŠ VISO mokesčių (darbuotojo + darbdavio)** | –       | **361,04**   |
+| Eil. | Pavadinimas                                              | Tarifas | Suma, €      |
+|------|----------------------------------------------------------|---------|--------------|
+| 1.   | Priskaitytas darbo užmokestis                            | –       | 1 153,00     |
+| 2.   | Darbuotojo mokesčiai ir kaupimas (GPM + VSD + PSD + 3 %) | –       | 340,63       |
+| 3.   | Darbdavio Sodra (neterminuota DS)                        | 1,77 %  | 20,41        |
+| 4.   | **IŠ VISO MOKESČIŲ (darbuotojo 340,63 + darbdavio 20,41)** | –     | **361,04**   |
+| 5.   | **Visa darbo vietos kaina (DU + darbdavio Sodra)**       | –       | **1 173,41** |
 
 Iš 361,04 € mokesčių 34,59 € yra pensijų kaupimas į paties darbuotojo fondą – grynų mokesčių valstybei lieka 326,45 € (GPM 81,20 + VSD 144,36 + PSD 80,48 + darbdavio 20,41).
 
