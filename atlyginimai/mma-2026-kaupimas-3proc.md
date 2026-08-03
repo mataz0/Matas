@@ -24,5 +24,9 @@ Pastaba: Sodrai deklaruojama bendra darbuotojo VSD norma su kaupimu – 15,52 % 
 | 1.   | Priskaitytas darbo užmokestis                 | –       | 1 153,00     |
 | 2.   | Darbdavio Sodra (neterminuota DS)             | 1,77 %  | 20,41        |
 | 3.   | **Visa darbo vietos kaina**                   | –       | **1 173,41** |
+| 4.   | Darbuotojo mokesčiai ir kaupimas (1 lentelė)  | –       | 340,63       |
+| 5.   | **IŠ VISO mokesčių (darbuotojo + darbdavio)** | –       | **361,04**   |
+
+Iš 361,04 € mokesčių 34,59 € yra pensijų kaupimas į paties darbuotojo fondą – grynų mokesčių valstybei lieka 326,45 € (GPM 81,20 + VSD 144,36 + PSD 80,48 + darbdavio 20,41).
 
 Palyginimui: nekaupiant papildomai (0 %) į rankas būtų 846,96 €, t. y. kaupimas 3 % sumažina neto 34,59 € / mėn.
